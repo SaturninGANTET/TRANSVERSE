@@ -1,0 +1,9 @@
+Programme	Type d'extension	Nom de l'argument
+programme	txt	aze
+programme	;pdb;pdb	aze
+<intro>
+
+<intro>
+<contact>
+
+<contact>
